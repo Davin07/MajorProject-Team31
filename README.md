@@ -11,7 +11,7 @@
  5. Gyandwip Das (ENG18CS0109)
 
 ## Models and Data Sources
- - [Deep Learning Models (File Sizes too large to uploaded to Github)](https://drive.google.com/drive/folders/1kGC1f72RWPC0SSgrqeEdDXR9k8s_tg1h?usp=sharing)
+ - [Deep Learning Models (File Sizes too large to be uploaded to Github)](https://drive.google.com/drive/folders/1kGC1f72RWPC0SSgrqeEdDXR9k8s_tg1h?usp=sharing)
  - [American Sign Language Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
  - [Indian Sign Language Dataset](https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl)
  - [Turkish Sign Language Dataset](https://www.kaggle.com/datasets/berkaykocaoglu/tr-sign-language)
